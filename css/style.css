@@ -207,6 +207,7 @@ header .navbar {
 .menu a:hover {
   background: transparent;
   color: #80d6a3;
+text-decoration: underline;
 }
 
 .menu .active a {
